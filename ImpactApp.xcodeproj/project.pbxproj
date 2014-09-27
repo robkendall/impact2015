@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B99C75419D389F30048E374 /* TeamsTableTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B99C75319D389F30048E374 /* TeamsTableTableViewController.m */; };
+		1B99C75719D38F130048E374 /* TeamsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B99C75619D38F130048E374 /* TeamsModel.m */; };
+		1B99C77D19D5114D0048E374 /* DevotionsRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B99C77C19D5114D0048E374 /* DevotionsRootViewController.m */; };
+		1B99C78619D511E70048E374 /* DevotionsPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B99C78519D511E70048E374 /* DevotionsPageViewController.m */; };
+		1B99C78A19D61CAA0048E374 /* DViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B99C78919D61CAA0048E374 /* DViewController.m */; };
+		1B99C78D19D61CC80048E374 /* PageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B99C78C19D61CC80048E374 /* PageContentViewController.m */; };
+		1B99C79219D61E110048E374 /* page1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B99C78E19D61E110048E374 /* page1.png */; };
+		1B99C79319D61E110048E374 /* page2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B99C78F19D61E110048E374 /* page2.png */; };
+		1B99C79419D61E110048E374 /* page3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B99C79019D61E110048E374 /* page3.png */; };
+		1B99C79519D61E110048E374 /* page4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B99C79119D61E110048E374 /* page4.png */; };
 		1BFD2E4619D2209700DF6BEB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD2E4519D2209700DF6BEB /* main.m */; };
 		1BFD2E4919D2209700DF6BEB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD2E4819D2209700DF6BEB /* AppDelegate.m */; };
 		1BFD2E4C19D2209700DF6BEB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD2E4B19D2209700DF6BEB /* ViewController.m */; };
@@ -27,6 +37,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1B99C75219D389F30048E374 /* TeamsTableTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamsTableTableViewController.h; sourceTree = "<group>"; };
+		1B99C75319D389F30048E374 /* TeamsTableTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamsTableTableViewController.m; sourceTree = "<group>"; };
+		1B99C75519D38F130048E374 /* TeamsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeamsModel.h; sourceTree = "<group>"; };
+		1B99C75619D38F130048E374 /* TeamsModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeamsModel.m; sourceTree = "<group>"; };
+		1B99C77B19D5114D0048E374 /* DevotionsRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DevotionsRootViewController.h; sourceTree = "<group>"; };
+		1B99C77C19D5114D0048E374 /* DevotionsRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DevotionsRootViewController.m; sourceTree = "<group>"; };
+		1B99C78419D511E70048E374 /* DevotionsPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DevotionsPageViewController.h; sourceTree = "<group>"; };
+		1B99C78519D511E70048E374 /* DevotionsPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DevotionsPageViewController.m; sourceTree = "<group>"; };
+		1B99C78819D61CAA0048E374 /* DViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DViewController.h; sourceTree = "<group>"; };
+		1B99C78919D61CAA0048E374 /* DViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DViewController.m; sourceTree = "<group>"; };
+		1B99C78B19D61CC80048E374 /* PageContentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageContentViewController.h; sourceTree = "<group>"; };
+		1B99C78C19D61CC80048E374 /* PageContentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageContentViewController.m; sourceTree = "<group>"; };
+		1B99C78E19D61E110048E374 /* page1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page1.png; sourceTree = "<group>"; };
+		1B99C78F19D61E110048E374 /* page2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page2.png; sourceTree = "<group>"; };
+		1B99C79019D61E110048E374 /* page3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page3.png; sourceTree = "<group>"; };
+		1B99C79119D61E110048E374 /* page4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page4.png; sourceTree = "<group>"; };
 		1BFD2E4019D2209700DF6BEB /* ImpactApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImpactApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BFD2E4419D2209700DF6BEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1BFD2E4519D2209700DF6BEB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,6 +86,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1B99C75819D38F1B0048E374 /* Teams */ = {
+			isa = PBXGroup;
+			children = (
+				1B99C75219D389F30048E374 /* TeamsTableTableViewController.h */,
+				1B99C75319D389F30048E374 /* TeamsTableTableViewController.m */,
+				1B99C75519D38F130048E374 /* TeamsModel.h */,
+				1B99C75619D38F130048E374 /* TeamsModel.m */,
+			);
+			name = Teams;
+			sourceTree = "<group>";
+		};
+		1B99C77A19D5112C0048E374 /* Devotions */ = {
+			isa = PBXGroup;
+			children = (
+				1B99C77B19D5114D0048E374 /* DevotionsRootViewController.h */,
+				1B99C77C19D5114D0048E374 /* DevotionsRootViewController.m */,
+				1B99C78419D511E70048E374 /* DevotionsPageViewController.h */,
+				1B99C78519D511E70048E374 /* DevotionsPageViewController.m */,
+			);
+			name = Devotions;
+			sourceTree = "<group>";
+		};
+		1B99C78719D61C770048E374 /* pageviewdemo */ = {
+			isa = PBXGroup;
+			children = (
+				1B99C78819D61CAA0048E374 /* DViewController.h */,
+				1B99C78919D61CAA0048E374 /* DViewController.m */,
+				1B99C78B19D61CC80048E374 /* PageContentViewController.h */,
+				1B99C78C19D61CC80048E374 /* PageContentViewController.m */,
+			);
+			name = pageviewdemo;
+			sourceTree = "<group>";
+		};
 		1BFD2E3719D2209700DF6BEB = {
 			isa = PBXGroup;
 			children = (
@@ -81,8 +140,15 @@
 		1BFD2E4219D2209700DF6BEB /* ImpactApp */ = {
 			isa = PBXGroup;
 			children = (
+				1B99C78E19D61E110048E374 /* page1.png */,
+				1B99C78F19D61E110048E374 /* page2.png */,
+				1B99C79019D61E110048E374 /* page3.png */,
+				1B99C79119D61E110048E374 /* page4.png */,
+				1B99C75819D38F1B0048E374 /* Teams */,
 				1BFD2E4719D2209700DF6BEB /* AppDelegate.h */,
 				1BFD2E4819D2209700DF6BEB /* AppDelegate.m */,
+				1B99C78719D61C770048E374 /* pageviewdemo */,
+				1B99C77A19D5112C0048E374 /* Devotions */,
 				1BFD2E4A19D2209700DF6BEB /* ViewController.h */,
 				1BFD2E4B19D2209700DF6BEB /* ViewController.m */,
 				1BFD2E4D19D2209700DF6BEB /* Main.storyboard */,
@@ -201,7 +267,11 @@
 			files = (
 				1BFD2E4F19D2209700DF6BEB /* Main.storyboard in Resources */,
 				1BFD2E5419D2209700DF6BEB /* LaunchScreen.xib in Resources */,
+				1B99C79419D61E110048E374 /* page3.png in Resources */,
+				1B99C79519D61E110048E374 /* page4.png in Resources */,
+				1B99C79219D61E110048E374 /* page1.png in Resources */,
 				1BFD2E5119D2209700DF6BEB /* Images.xcassets in Resources */,
+				1B99C79319D61E110048E374 /* page2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +289,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B99C77D19D5114D0048E374 /* DevotionsRootViewController.m in Sources */,
 				1BFD2E4C19D2209700DF6BEB /* ViewController.m in Sources */,
+				1B99C78D19D61CC80048E374 /* PageContentViewController.m in Sources */,
 				1BFD2E4919D2209700DF6BEB /* AppDelegate.m in Sources */,
 				1BFD2E4619D2209700DF6BEB /* main.m in Sources */,
+				1B99C75419D389F30048E374 /* TeamsTableTableViewController.m in Sources */,
+				1B99C75719D38F130048E374 /* TeamsModel.m in Sources */,
+				1B99C78619D511E70048E374 /* DevotionsPageViewController.m in Sources */,
+				1B99C78A19D61CAA0048E374 /* DViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +490,7 @@
 				1BFD2E6519D2209800DF6BEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1BFD2E6619D2209800DF6BEB /* Build configuration list for PBXNativeTarget "ImpactAppTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +499,7 @@
 				1BFD2E6819D2209800DF6BEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

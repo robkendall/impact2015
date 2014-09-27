@@ -24,4 +24,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)teamsButton:(UIButton *)sender {
+}
+
+- (IBAction)button1:(UIButton *)sender {
+}
 @end
