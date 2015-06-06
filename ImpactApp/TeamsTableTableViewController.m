@@ -55,8 +55,8 @@
     NSString *CellIdentifier = @"Cell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
     
-    cell.indentationWidth = 100;
-    
+    //cell.indentationWidth = 100;
+
     if(indexPath.row == 0){
         cell.textLabel.text = teamsArray[indexPath.section][@"Group Name"];
         cell.textLabel.backgroundColor = [UIColor yellowColor];

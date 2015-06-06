@@ -10,7 +10,5 @@
 
 @interface ViewController : UIViewController
 
-- (IBAction)teamsButton:(UIButton *)sender;
-
 @end
 
